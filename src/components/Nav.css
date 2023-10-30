@@ -1,0 +1,12 @@
+.navbar{
+    width: 100%;
+    top: 0px;
+    position: fixed;
+    padding-left: 0.6rem;
+    padding-top: 0.6rem;
+    z-index: 1;
+}
+.nav-bg{
+    background-color: rgba(0, 0, 0, 0.477); 
+    backdrop-filter: blur(30px);
+}
